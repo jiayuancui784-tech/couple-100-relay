@@ -1,0 +1,12 @@
+{
+  "name": "couple100-relay",
+  "version": "1.0.0",
+  "description": "WebSocket relay for couple-100 sync",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
